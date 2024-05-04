@@ -1,0 +1,4 @@
+arr3 starts at 0x10010058 , arr3[7][2] is 7x5+2=37th element in the array since there are 20 rows and 5 columns. so 0x10010058+ 37(in base 10) = 0x1001007c.
+arr3 starts at 0x10010058 , arr3[11][4] is 11x5+4=59th element in the array since there are 20 rows and 5 columns. so 0x10010058+ 59(in base 10) = 0x10010093.
+arr3 starts at 0x10010058 , arr3[19][3] is 19x5+3=98th element in the array since there are 20 rows and 5 columns. so 0x10010058+ 98(in base 10) = 0x100100BA.
+

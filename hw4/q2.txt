@@ -1,0 +1,2 @@
+arr1 starts at 0x10010000, since each word is 4 bytes and there are 5 words before arr1[5], it will use 5x4=20 bytes and arr1[5] starts at 0x10010014 ends at 0x10010018.
+arr1 starts at 0x10010000, since each word is 4 bytes and there are 17 words before arr1[17], it will use 17x4=68 bytes and arr1[17] starts at 0x10010044 ends at 0x10010048.

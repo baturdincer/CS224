@@ -1,0 +1,5 @@
+arr1 starts at 0x10010000 and since each word are 4 bytes and there are 20 words in the array it will use 4x20=80 bytes and arr1 ends at 0x10010050.
+arr2 starts at 0x10010050 and since each .half are 2 bytes and there are 4 .halfs it will be 4x2=8 bytes and arr2 ends at 0x10010058.
+arr3  starts at 0x10010058 and since each space is 1 byt and there are 100 spaces it will use 100bytes and arr3 ends at 0x100100bc.
+str1 starts at 0x100100bc and each character uses 1 byte and we will ad additional 1 byte for null terminator. it will use 18 bytes and ends at 0x100100ce.
+str2 starts at 0x100100ce, and each character uses 1 byte and we will ad additional 1 byte for null terminator. it will use 25 bytes and ends at 0x100100e7.
